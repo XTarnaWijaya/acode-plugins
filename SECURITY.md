@@ -1,7 +1,7 @@
 # Security
 
 ## Dukungan
-    Chat me email: [TarnaWijaya Chat Email](mailto://tarnaindramayuu@gmail.com)
+Chat me email: [TarnaWijaya Chat Email](mailto://tarnaindramayuu@gmail.com)
 
 | Version | Supported          |
 | ------- | ------------------ |
