@@ -7,7 +7,9 @@
   <br>
   <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/>
 
- <i>Acode Editor</i> - Collection of some open source plugins used in the main [play story](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) code editing application
+ <i>Acode Editor</i> - Collection of some open source plugins used in the main
+ [Play Story](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+ code editing application
 
  • Documentation: [https://acode.app/](https://acode.app/plugin-docs)
 
