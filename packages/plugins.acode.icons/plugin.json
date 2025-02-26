@@ -8,7 +8,7 @@
   "files": [],
   "minVersionCode": 290,
   "license": "MIT",
-  "keywords": ["icons", "vscode"],
+  "keywords": ["icons", "acode", "plugin"],
   "changelogs": "ChangeLog.md",
   "contributors": [],
   "author": {
