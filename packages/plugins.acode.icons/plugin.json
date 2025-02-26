@@ -1,0 +1,19 @@
+{
+  "id": "plugins.acode.icons",
+  "name": "Acode Editors Code - Icons",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.svg",
+  "files": [],
+  "minVersionCode": 290,
+  "license": "MIT",
+  "keywords": ["icons", "vscode"],
+  "changelogs": "ChangeLog.md",
+  "contributors": [],
+  "author": {
+    "name": "TarnaWijaya",
+    "email": "tarnaindramayuu@gmail.com",
+    "github": "XTarnaWijaya"
+  }
+}
