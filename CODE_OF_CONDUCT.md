@@ -1,6 +1,6 @@
 # Collaborator
 <a href="https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=XTarnaWijaya/acode-bash-script" />
+  <img src="https://contrib.rocks/image?repo=XTarnaWijaya/acode-plugins" />
 </a>
 
 | Tarna | Riski |
