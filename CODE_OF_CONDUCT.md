@@ -9,4 +9,4 @@
 
 [ Info ]
 
-`Tidak ada yang setia kecuali allah, mengapa allah? karena allah menjagamu samapai tua nanti walapun kamu orangnya berbuat dosa yang banyak allah tetapmenyayagi anda ayolah kawan, tobatlah sebentar lagi mau puasa dan tatap jaga sholat dan zhikirmu kawan`
+`Tidak ada yang setia kecuali allah, mengapa allah? karena allah menjagamu samapai tua nanti walapun kamu orangnya berbuat dosa yang banyak allah tetap menyayagi anda ayolah kawan, tobatlah sebentar lagi mau puasa dan tatap jaga sholat dan zhikirmu kawan`
