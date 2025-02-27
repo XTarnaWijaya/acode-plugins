@@ -5,6 +5,6 @@
 
 | Tarna | Riski |
 |---|---|
-| Hai, perkenalkan nama saya TarnaWijaya. saya tinggal dikota mangga dan saya
-juga hobi coding, coding hanya gabut saja| Hai Perkenalkan nama saya riski saya
-adalah seorang pemuda yangvsedang ingin berlajar |
+| Hai, perkenalkan nama saya TarnaWijaya. Saya tinggal di Kota Mangga dan saya juga hobi coding, meskipun hanya sekadar mengisi waktu luang. | Hai, perkenalkan nama saya Riski. Saya adalah seorang pemuda yang sedang ingin belajar. |
+
+[ Info ]
