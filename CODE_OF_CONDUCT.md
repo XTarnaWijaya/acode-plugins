@@ -1,22 +1,11 @@
 # Collaborator
 
 <div style="display: flex; overflow-x: auto; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://github.com/XTarnaWijaya.png" alt="TarnaWijaya" width="50" height="50">
-    <br>
-    <a href="https://github.com/XTarnaWijaya">XTarnaWijaya</a>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/hanzxploit620.png" alt="Riski" width="50" height="50">
-    <br>
-    <a href="https://github.com/hanzxploit620">Riski</a>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/ZVex-Dev.png" alt="Dayat" width="50" height="50">
-    <br>
-    <a href="https://github.com/ZVex-Dev">Dayat</a>
-  </div>
+  <div style="text-align: center;"><img src="https://github.com/XTarnaWijaya.png" alt="TarnaWijaya" width="50" height="50"><br><a href="https://github.com/XTarnaWijaya">XTarnaWijaya</a></div>
+  <div style="text-align: center;"><img src="https://github.com/hanzxploit620.png" alt="Riski" width="50" height="50"><br><a href="https://github.com/hanzxploit620">Riski</a></div>
+  <div style="text-align: center;"><img src="https://github.com/ZVex-Dev.png" alt="Dayat" width="50" height="50"><br><a href="https://github.com/ZVex-Dev">Dayat</a></div>
 </div>
+
 
 ---
 
