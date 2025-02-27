@@ -1,5 +1,6 @@
 # Collaborator
 [![TarnaWijaya](https://github.com/XTarnaWijaya.png)](https://github.com/XTarnaWijaya)
+[![Riski](https://github.com/hanzxploit620.png)](https://github.com/hanzxploit620)
 
 | Nama  | Perkenalan |
 |--------|-----------|
