@@ -8,4 +8,4 @@
 | Hai, perkenalkan nama saya TarnaWijaya. Saya tinggal di Kota Mangga dan saya juga hobi coding, meskipun hanya sekadar mengisi waktu luang. | Hai, perkenalkan nama saya Riski. Saya adalah seorang pemuda yang sedang ingin belajar. |
 
 [ Info ]
-Tidak ada yang setia kecuali allah, mengapa allah? karena allah menjagamu samapai tua nanti walapun kamu orangnya berbuat dosa yang banyak allah tetap menyayagi anda ayolah kawan, tobatlah sebentar lagi mau puasa
+`Tidak ada yang setia kecuali allah, mengapa allah? karena allah menjagamu samapai tua nanti walapun kamu orangnya berbuat dosa yang banyak allah tetapmenyayagi anda ayolah kawan, tobatlah sebentar lagi mau puasa dan tatap jaga sholat dan zhikirmu kawan`
