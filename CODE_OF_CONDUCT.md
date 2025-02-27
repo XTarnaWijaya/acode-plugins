@@ -1,5 +1,5 @@
 # Collaborator
-<img src="https:github.com/XTarnaWijaya" alt="TarnaWijaya" />
+[!https://github.com/XTarnaWijaya.png[TarnaWijaya]](https://github.com/XTarnaWijaya)
 
 | Nama  | Perkenalan |
 |--------|-----------|
