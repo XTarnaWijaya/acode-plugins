@@ -1,7 +1,13 @@
 # Collaborator
-[![TarnaWijaya](https://github.com/XTarnaWijaya.png)](https://github.com/XTarnaWijaya)
-[![Riski](https://github.com/hanzxploit620.png)](https://github.com/hanzxploit620)
-[![Dayat](https://github.com/ZVex-Dev.png)](https://github.com/ZVex-Dev)
+<img src="https://github.com/XTarnaWijaya.png" alt="TarnaWijaya" width="50" height="50">
+<a href="https://github.com/XTarnaWijaya">XTarnaWijaya</a><br>
+
+<img src="https://github.com/hanzxploit620.png" alt="Riski" width="50" height="50">
+<a href="https://github.com/hanzxploit620">Riski</a><br>
+
+<img src="https://github.com/ZVex-Dev.png" alt="Dayat" width="50" height="50">
+<a href="https://github.com/ZVex-Dev">Dayat</a>
+
 
 | Nama  | Perkenalan |
 |--------|-----------|
