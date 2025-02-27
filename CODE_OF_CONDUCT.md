@@ -1,12 +1,23 @@
 # Collaborator
-<a href="https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=XTarnaWijaya/acode-bash-script" />
+## Contributors
+<a href="https://github.com/TarnaWijaya-Studio/Tarz-AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TarnaWijaya-Studio/Tarz-AI" />
 </a>
 
-| Tarna | Riski |
-|---|---|
-| Hai, perkenalkan nama saya TarnaWijaya. Saya tinggal di Kota Mangga dan saya juga hobi coding, meskipun hanya sekadar mengisi waktu luang. | Hai, perkenalkan nama saya Riski. Saya adalah seorang pemuda yang sedang ingin belajar. |
+---
 
-[ Info ]
+| Nama   | Perkenalan |
+|--------|-----------|
+| **Tarna**  | Hai, perkenalkan nama saya TarnaWijaya. Saya tinggal di Kota Mangga dan hobi coding, meskipun hanya sekadar mengisi waktu luang. |
+| **Riski**  | Hai, perkenalkan nama saya Riski. Saya adalah seorang pemuda yang sedang ingin belajar. |
+| **Dayat**  | Hai, perkenalkan nama saya Dayat. Saya sedang ingin belajar tentang plugin Acode. |
 
-`Tidak ada yang setia kecuali allah, mengapa allah? karena allah menjagamu samapai tua nanti walapun kamu orangnya berbuat dosa yang banyak allah tetap menyayagi anda ayolah kawan, tobatlah sebentar lagi mau puasa dan tatap jaga sholat dan zhikirmu kawan`
+---
+
+## [ Info ]
+
+> Tidak ada yang setia kecuali Allah.  
+> Mengapa Allah? Karena Allah menjagamu sampai tua nanti.  
+> Walaupun kamu banyak berbuat dosa, Allah tetap menyayangimu.  
+> Ayolah kawan, tobatlah.  
+> Sebentar lagi mau puasa dan tetap jaga sholat serta zikhirmu, kawan.
