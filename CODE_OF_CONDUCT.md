@@ -21,3 +21,6 @@
 > Walaupun kamu banyak berbuat dosa, Allah tetap menyayangimu.  
 > Ayolah kawan, tobatlah.  
 > Sebentar lagi mau puasa dan tetap jaga sholat serta zikhirmu, kawan.
+
+---
+<div ="center"> ©2025 </div>
