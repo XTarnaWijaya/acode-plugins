@@ -1,6 +1,7 @@
 # Collaborator
-[![Contributors](https://contrib.rocks/image?repo=XTarnaWijaya/acode-plugins)](https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors)
-[![Contributors](https://shields.io/github/contributors/XTarnaWijaya/acode-plugins)](https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors)
+<a href="https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XTarnaWijaya/acode-plugins" />
+</a>
 
 
 | Nama  | Perkenalan |
