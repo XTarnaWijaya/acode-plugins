@@ -10,7 +10,11 @@
   "license": "MIT",
   "keywords": ["icons", "acode", "plugin"],
   "changelogs": "ChangeLog.md",
-  "contributors": [],
+  "contributors": {
+    "name": "RiskyAditia",
+    "email": "hanzzsky009@gmail.com",
+    "github": "hanzxploit620"
+    },
   "author": {
     "name": "TarnaWijaya",
     "email": "tarnaindramayuu@gmail.com",
