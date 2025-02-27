@@ -1,62 +1,8 @@
 # Collaborator
 ## Contributors
-
-<div id="profile-container">
-  <div class="profile">
-    <img src="https://github.com/XTarnaWijaya.png" alt="TarnaWijaya" width="50" height="50">
-    <br>
-    <a href="https://github.com/XTarnaWijaya">XTarnaWijaya</a>
-  </div>
-  <div class="profile">
-    <img src="https://github.com/hanzxploit620.png" alt="Riski" width="50" height="50">
-    <br>
-    <a href="https://github.com/hanzxploit620">Riski</a>
-  </div>
-  <div class="profile">
-    <img src="https://github.com/ZVex-Dev.png" alt="Dayat" width="50" height="50">
-    <br>
-    <a href="https://github.com/ZVex-Dev">Dayat</a>
-  </div>
-</div>
-
-<div class="scroll-buttons">
-  <button onclick="scrollLeft()" class="scroll-button">⬅️</button>
-  <button onclick="scrollRight()" class="scroll-button">➡️</button>
-</div>
-
-<script>
-  function scrollLeft() {
-    document.getElementById('profile-container').scrollBy({ left: -100, behavior: 'smooth' });
-  }
-
-  function scrollRight() {
-    document.getElementById('profile-container').scrollBy({ left: 100, behavior: 'smooth' });
-  }
-</script>
-
-<style>
-  #profile-container {
-    display: flex;
-    gap: 20px;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-
-  .profile {
-    text-align: center;
-    min-width: 80px; /* Ensure enough space for the image and name */
-  }
-
-  .scroll-buttons {
-    text-align: center;
-    margin-top: 10px;
-  }
-
-  .scroll-button {
-    padding: 5px 10px;
-  }
-</style>
-
+<a href="https://github.com/TarnaWijaya-Studio/Tarz-AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TarnaWijaya-Studio/Tarz-AI" />
+</a>
 
 ---
 
