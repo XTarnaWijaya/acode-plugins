@@ -1,7 +1,7 @@
 # Collaborator
 ## Contributors
-<a href="https://github.com/TarnaWijaya-Studio/Tarz-AI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TarnaWijaya-Studio/Tarz-AI" />
+<a href="https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XTarnaWijaya/acode-plugins" />
 </a>
 
 ---
@@ -21,3 +21,6 @@
 > Walaupun kamu banyak berbuat dosa, Allah tetap menyayangimu.  
 > Ayolah kawan, tobatlah.  
 > Sebentar lagi mau puasa dan tetap jaga sholat serta zikhirmu, kawan.
+
+---
+<div style="text-align: center;">©2025</div>
