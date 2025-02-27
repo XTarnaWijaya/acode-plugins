@@ -1,10 +1,5 @@
 # Collaborator
 [![Contributors](https://contrib.rocks/image?repo=XTarnaWijaya/acode-plugins)](https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors)
-<div style="display: inline-block; margin-right: 10px;">
-  <a href="https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=XTarnaWijaya/acode-plugins" alt="Contributors" style="border: 1px solid #ccc; border-radius: 5px;">
-  </a>
-</div>
 [![Contributors](https://shields.io/github/contributors/XTarnaWijaya/acode-plugins)](https://github.com/XTarnaWijaya/acode-plugins/graphs/contributors)
 
 
