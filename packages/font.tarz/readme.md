@@ -1,6 +1,6 @@
 # Tarz Fonts
 
-Plugin Acode yang menambahkan font Iosevka Fixed.
+Plugin Acode yang menambahkan font Tarz Hot🔥❤️‍🔥
 
 ## Cara pasang!!
 
