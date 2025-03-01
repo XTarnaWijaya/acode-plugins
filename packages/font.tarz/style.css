@@ -1,0 +1,7 @@
+@font-face {
+    font-family: FONT-FAMILY;
+    src: url('/@plugin-base-url/font/Tarz.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    size-adjust: 123%;
+}
