@@ -1,0 +1,20 @@
+{
+  "id": "theme.tarz",
+  "name": "Tarz Theme",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["theme", "rgb", "glow"],
+  "contributors": [],
+  "author": {
+    "name": "TarnaWijaya",
+    "email": "tarnaindramayuu@gmail.com",
+    "github": "XTarnaWijaya",
+    "url": "https://github.com/XTarnaWijaya/acode-plugins/tree/3e0cb975157c9649bdcda628d97fe581674a54e6/packages/theme.tarz"
+  }
+}
