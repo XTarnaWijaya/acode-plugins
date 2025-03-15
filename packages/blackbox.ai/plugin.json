@@ -1,0 +1,20 @@
+{
+  "id": "blackbox.ai",
+  "name": "BlackBox AI",
+  "main": "main.js",
+  "version": "3.1.2",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": ["assets/markdown-it.min.js"],
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["blackbox", "ai", "gemini", "openai"],
+  "changelogs": "ChangeLog.md",
+  "contributors": [],
+  "author": {
+    "name": "TarnaWijaya",
+    "email": "tarnaindramayuu@gmail.com",
+    "github": "XTarnaWijaya"
+  }
+}
