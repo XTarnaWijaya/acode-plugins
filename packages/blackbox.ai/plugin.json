@@ -1,7 +1,7 @@
 {
   "id": "blackbox.ai",
   "name": "BlackBox AI",
-  "main": "main.js",
+  "main": "dist/main.js",
   "version": "3.1.2",
   "readme": "readme.md",
   "icon": "icon.png",
