@@ -12,6 +12,7 @@
 | **Riski**  | Hai, perkenalkan nama saya Riski. Saya adalah seorang pemuda yang sedang ingin belajar. |
 | **Dayat**  | Hai, perkenalkan nama saya Dayat. Saya sedang ingin belajar tentang plugin Acode. |
 | **Ihsan**  | Hai, perkenalkan nama saya Ihsan. Saya hanya anak yang ingin tahu dunia luar. |
+| **Prince** | Hi, my name is Prince. I just joined as a collaborator. |
 
 ---
 
