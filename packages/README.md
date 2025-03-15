@@ -1,4 +1,3 @@
 # Plugins Acode
 
-Sebelum upload plugins disini cek dulu atau coba dulu kalau ada yang error
-perbaiki dulu menggunakan acode atau mt meneger, setelah plugin bisa dijalanka silakan upload
+Before uploading plugins here, check first or try first if there is an error, fix it first using acode or mt manager, after the plugin can be run, please upload it
