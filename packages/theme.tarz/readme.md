@@ -16,7 +16,7 @@ Buka `Pengaturan` -> `Tema` -> `Tema Editor` -> gulir ke bawah dan pilih `Tarz H
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co.com/ZR4GBLwr/IMG-20250316-WA0235-1.jpg" alt="IMG-20250316-WA0235-1" border="0"></a>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/C35R3b9z/IMG-20250316-WA0234-1.jpg" alt="IMG-20250316-WA0234-1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/60P84Rpg/Screenshot-2025-0316-153542.jpg" alt="Screenshot-2025-0316-153542" border="0"></a>
 
 # Jangan lupa joins grup
 
