@@ -10,147 +10,159 @@
       const { editor } = editorManager;
       const themeId = "tarz-theme";
 
-      ace.define("ace/theme/" + themeId + ".css", ["require", "exports", "module"], function (require, exports, module) {
-        module.exports = `
-          @keyframes rainbowText {
-            0%   { color: #ff0000; }
-            14%  { color: #ff7f00; }
-            28%  { color: #ffff00; }
-            42%  { color: #00ff00; }
-            57%  { color: #0000ff; }
-            71%  { color: #4b0082; }
-            85%  { color: #8a2be2; }
-            100% { color: #ff0000; }
-          }
+      ace.define(
+        "ace/theme/" + themeId + ".css",
+        ["require", "exports", "module"],
+        function (require, exports, module) {
+          module.exports = `
+        .ace-tarz-theme {
+          background-color: rgb(15, 15, 15);
+          color: rgb(240, 240, 240);
+          font-weight: bold;
+          text-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.3);
+          transition: all 0.2s ease-in-out;
+        }
 
-          @keyframes neonGlow {
-            0%, 100% { text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); }
-            50% { text-shadow: 0 0 15px rgba(255, 255, 255, 1); }
-          }
+        .ace-tarz-theme .ace_gutter {
+          color: rgb(180, 180, 180);
+          background: rgb(10, 10, 10);
+        }
 
-          @keyframes blinkError {
-            0%, 100% { color: #ff0000; text-shadow: 0 0 10px #ff0000; }
-            50% { color: transparent; text-shadow: none; }
-          }
+        .ace-tarz-theme .ace_print-margin {
+          width: 1px;
+          background: #444;
+        }
 
-          @keyframes borderPulse {
-            0% { border-color: #ff0000; }
-            25% { border-color: #ff7f00; }
-            50% { border-color: #00ff00; }
-            75% { border-color: #0000ff; }
-            100% { border-color: #ff0000; }
-          }
+        .ace-tarz-theme .ace_cursor {
+          color: #ffcc00;
+          border-left-width: 2px;
+        }
 
-          .ace-tarz-theme {
-            color: #abb2bf;
-            background: linear-gradient(135deg, #1f1f1f, #2a2a2a);
-            animation: neonGlow 2s infinite alternate;
-          }
+        .ace-tarz-theme .ace_marker-layer .ace_selection {
+          background: rgba(100, 100, 100, 0.5);
+          border-radius: 0;
+        }
 
-          .ace-tarz-theme .ace_gutter {
-            background: #202020;
-            color: #8a8a8a;
-          }
+        .ace-tarz-theme .ace_multiselect .ace_selection.ace_start {
+          box-shadow: 0 0 5px #268bd2;
+        }
 
-          .ace-tarz-theme .ace_gutter-active-line {
-            background-color: #2c2c3e;
-            color: #ffeb3b;
-          }
+        .ace-tarz-theme .ace_marker-layer .ace_step {
+          background: #c6dbae;
+        }
 
-          .ace-tarz-theme .ace_cursor {
-            color: #efae31;
-            border-left-width: 2px;
-            animation: neonGlow 1s infinite alternate;
-          }
+        .ace-tarz-theme .ace_marker-layer .ace_bracket {
+          margin: -1px 0 0 -1px;
+          border: 1px solid #f8f8f0;
+        }
 
-          .ace-tarz-theme .ace_selection {
-            background: rgba(0, 150, 255, 0.3);
-            animation: neonGlow 1s infinite alternate;
-          }
+        .ace-tarz-theme .ace_marker-layer .ace_active-line {
+          background-color: rgba(55, 64, 76, 0.5);
+          border: 1px solid #3a424a;
+          box-sizing: border-box;
+        }
 
-          .ace-tarz-theme .ace_keyword {
-            color: #ff0080;
-            font-weight: bold;
-            animation: rainbowText 3s infinite linear;
-          }
+        .ace-tarz-theme .ace_marker-layer .ace_selected-word {
+          background-color: rgba(125, 81, 64, 0.8);
+        }
 
-          .ace-tarz-theme .ace_variable {
-            color: #ffeb3b;
-            font-style: italic;
-            text-shadow: 0 0 5px rgba(255, 235, 59, 0.5);
-          }
+        .ace-tarz-theme .ace_invisible {
+          color: #52524d;
+        }
 
-          .ace-tarz-theme .ace_string {
-            color: #ff4d4d;
-            font-weight: bold;
-            animation: neonGlow 2s infinite alternate;
-          }
+        /* Animasi Rainbow untuk keyword, operator & tag */
+        @keyframes rainbow {
+          0% { color: #ff0000; text-shadow: 0 0 5px #ff0000; }
+          20% { color: #ff7f00; text-shadow: 0 0 5px #ff7f00; }
+          40% { color: #ffff00; text-shadow: 0 0 5px #ffff00; }
+          60% { color: #00ff00; text-shadow: 0 0 5px #00ff00; }
+          80% { color: #0000ff; text-shadow: 0 0 5px #0000ff; }
+          100% { color: #8b00ff; text-shadow: 0 0 5px #8b00ff; }
+        }
+        .ace-tarz-theme .ace_keyword,
+        .ace-tarz-theme .ace_operator,
+        .ace-tarz-theme .ace_meta.ace_tag,
+        .ace-tarz-theme .hljs-keyword {
+          animation: rainbow 3s infinite;
+          font-weight: bold;
+        }
 
-          .ace-tarz-theme .ace_comment {
-            color: #6a9955;
-            font-style: italic;
-            opacity: 0.8;
-          }
+        /* String dengan efek glow */
+        .ace-tarz-theme .ace_string {
+          color: #a6d6fe;
+          text-shadow: 0 0 8px #a6d6fe;
+        }
 
-          .ace-tarz-theme .ace_operator {
-            color: #00ffff;
-            font-weight: bold;
-            text-shadow: 0 0 10px #00ffff;
-          }
+        /* Komentar dengan glow halus */
+        .ace-tarz-theme .ace_comment {
+          font-style: italic;
+          color: #6a9955;
+          text-shadow: 0 0 3px #6a9955;
+        }
 
-          .ace-tarz-theme .ace_bracket {
-            font-weight: bold;
-            color: #ff9800;
-            animation: borderPulse 2s infinite;
-          }
+        /* Konstanta dan angka */
+        .ace-tarz-theme .ace_constant,
+        .ace-tarz-theme .ace_numeric {
+          color: #ff79c5;
+          text-shadow: 0 0 6px #ff79c5;
+        }
 
-          .ace-tarz-theme .ace_constant.ace_numeric {
-            color: #ff66cc;
-          }
-
-          .ace-tarz-theme .ace_support.ace_function {
-            color: #33ffcc;
-          }
-
-          .ace-tarz-theme .ace_storage {
-            color: #57afff;
-            text-shadow: 0 0 5px #57afff;
-          }
-
-          .ace-tarz-theme .ace_entity.ace_name.ace_function {
-            color: #fff8d3;
-          }
-
-          .ace-tarz-theme .ace_paren {
-            color: gold;
-          }
-
-          .ace-tarz-theme .ace_indent-guide {
-            display: inline-block;
-            height: 100%;
-            background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ09NrYAgMjP4PAAtGAwchHMyAAAAAAElFTkSuQmCC) right repeat-y;
-          }
-
-          .ace-tarz-theme .ace_indent-guide-active {
-            background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQIW2PQ1dX9zzBz5sz/ABCcBFFentLlAAAAAElFTkSuQmCC) right repeat-y;
-          }
-
-          /* Efek untuk teks error */
-          .ace-tarz-theme .ace_error {
-            color: #ff0000;
-            font-weight: bold;
-            text-shadow: 0 0 10px #ff0000;
-            animation: blinkError 1s infinite;
-          }
+        /* Variabel */
+        .ace-tarz-theme .ace_variable {
+          color: #79c1fe;
+          text-shadow: 0 0 6px #79c1fe;
+        }
+        .ace-tarz-theme .ace_support.ace_function,
+        .ace-tarz-theme .ace_entity.ace_name.ace_function {
+          color: #fff8d3;
+          text-shadow: 0 0 6px #fff8d3;
+        }
+        .ace-tarz-theme .ace_class {
+          color: #ffa658;
+          text-shadow: 0 0 6px #ffa658;
+        }
+        .ace-tarz-theme .ace_identifier {
+          color: #aef1ff;
+        }
+        .ace-tarz-theme .ace_punctuation.ace_tag,
+        .ace-tarz-theme .ace_tag-name.ace_tag {
+          color: #7ef788;
+          text-shadow: 0 0 5px #7ef788;
+        }
+        .ace-tarz-theme .ace_indent-guide {
+          opacity: 0.3;
+          display: inline-block;
+          height: 100%;
+          background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ09NrYAgMjP4PAAtGAwchHMyAAAAAAElFTkSuQmCC) right repeat-y;
+        }
+        .ace-tarz-theme .ace_indent-guide-active {
+          opacity: 1;
+          background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjiDn/7D8ABq0DEfhX2qgAAAAASUVORK5CYII=) right repeat-y;
+        }
         `;
-      });
+        },
+      );
 
-      ace.define("ace/theme/" + themeId, ["require", "exports", "module", "ace/theme/" + themeId + ".css", "ace/lib/dom"], function (require, exports, module) {
-        exports.isDark = true;
-        exports.cssClass = "ace-" + themeId;
-        exports.cssText = require("./" + themeId + ".css");
-        require("../lib/dom").importCssString(exports.cssText, exports.cssClass, false);
-      });
+      ace.define(
+        "ace/theme/" + themeId,
+        [
+          "require",
+          "exports",
+          "module",
+          "ace/theme/" + themeId + ".css",
+          "ace/lib/dom",
+        ],
+        function (require, exports, module) {
+          exports.isDark = true;
+          exports.cssClass = "ace-" + themeId;
+          exports.cssText = require("./" + themeId + ".css");
+          require("../lib/dom").importCssString(
+            exports.cssText,
+            exports.cssClass,
+            false,
+          );
+        },
+      );
 
       window.require(["ace/theme/" + themeId], function (themeModule) {
         if (typeof exports === "object" && themeModule) {
@@ -158,7 +170,11 @@
         }
       });
 
-      class TarzRGBFusionPlugin {
+      class TarzRGBGlowPlugin {
+        constructor() {
+          this.onThemeChange = this.onThemeChange.bind(this);
+        }
+
         async init() {
           ace.require("ace/ext/themelist").themes.push({
             caption: "Tarz Hot❤️‍🔥🔥",
@@ -173,7 +189,7 @@
         }
 
         async destroy() {
-          settings.off("update", this.onThemeChange);
+          settings.off("update:editorTheme", this.onThemeChange);
         }
 
         onThemeChange(newTheme) {
@@ -188,11 +204,10 @@
       }
 
       function highlightErrors() {
-        let editor = ace.edit("editor");
         let session = editor.getSession();
         let annotations = [];
-
         let lines = session.getDocument().getAllLines();
+
         for (let i = 0; i < lines.length; i++) {
           if (lines[i].includes("error")) {
             annotations.push({
@@ -203,7 +218,6 @@
             });
           }
         }
-
         session.setAnnotations(annotations);
       }
 
@@ -212,7 +226,7 @@
       });
 
       if (window.acode) {
-        const pluginInstance = new TarzRGBFusionPlugin();
+        const pluginInstance = new TarzRGBGlowPlugin();
         acode.setPluginInit(pluginInfo.id, (baseUrl, context, cache) => {
           if (!baseUrl.endsWith("/")) {
             baseUrl += "/";
