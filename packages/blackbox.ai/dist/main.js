@@ -1,3 +1,4 @@
+/*! For license information please see main.js.LICENSE.txt */
 !(function () {
   var t = {
       4655: function (t, e, r) {
