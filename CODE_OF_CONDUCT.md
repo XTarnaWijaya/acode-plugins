@@ -19,6 +19,7 @@
 ## [ Info ]
 
 > Tidak ada yang setia kecuali allah😇🙏
+> Belajarlah dari kesalahan dan terus mencoba agar mendapatkan hasil yang lebih baik
 
 ---
 <div style="text-align: center;">©2025</div>
