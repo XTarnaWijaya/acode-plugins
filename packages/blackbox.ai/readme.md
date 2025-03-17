@@ -1,7 +1,5 @@
 # BlackBox AI
 
-Terimakasih Tim blackbox 🤝🤍
-
 ## Jangan lupa join grups saya
 
 [ WhatsApp ](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n) |
