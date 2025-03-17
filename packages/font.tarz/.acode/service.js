@@ -1,7 +1,7 @@
 var Settings = acode.require("settings"),  
   Fonts = acode.require("fonts"),  
   load_tarna_css = function (o) {  
-    var n = o.concat("style.css"),  
+    var n = o.concat("assets/*.css"),  
       c = new XMLHttpRequest();  
     return (  
       c.open("GET", n, !1),  
