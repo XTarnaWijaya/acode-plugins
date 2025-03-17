@@ -1,0 +1,38 @@
+{
+  "name": "blackbox.ai",
+  "version": "3.2.0",
+  "description": "Blackbox.ai adalah alat berbasis kecerdasan buatan yang dirancang untuk membantu programmer dengan fitur seperti penyelesaian kode otomatis, pencarian kode dari berbagai bahasa pemrograman, serta ekstraksi kode.",
+  "main": "dist/main.js",
+  "type": "module",
+  "repository": "https://github.com/XTarnaWijaya/acode-plugins/tree/main/packages/blackbox.ai",
+  "author": "TarnaWijaya",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.23.0",
+    "@types/ace": "^0.1.0",
+    "html-tag-js": "^1.1.43",
+    "openai": "^4.82.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.3",
+    "@babel/core": "^7.24.3",
+    "@babel/plugin-transform-runtime": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "babel-loader": "^9.2.1",
+    "jszip": "^3.11.1",
+    "live-server": "^1.2.4",
+    "markdown-it": "^14.0.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.3.0"
+  },
+  "scripts": {
+    "build": "webpack && python .acode/sendfile.py",
+    "build-release": "webpack --mode production && python .acode/sendfile.py",
+    "start-dev": "node .acode/start-dev"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    "not < 0.25%"
+  ]
+}
