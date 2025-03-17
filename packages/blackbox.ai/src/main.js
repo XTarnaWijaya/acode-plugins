@@ -153,7 +153,7 @@ class BlackBox {
       const result = (await response).choices[0].message.content;
       this.mdIt.render(result);
     } catch (error) {
-      this.handleError(error, "BlackBox AI Error");
+      this.handleError(error, "BlackBox AI Errorr");
     }
   }
   async getApiKey() {
