@@ -87,7 +87,7 @@ class BlackBox {
     this.setupCommands();
     this.sideButton = SideButton({
       text: "BlackBox AI",
-      icon: "generate-code-icon",
+      icon: "blackbox-code-icon",
       onclick: () => this.run(),
       backgroundColor: "#8400ff",
       textColor: "#000",
