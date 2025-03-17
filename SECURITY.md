@@ -1,8 +1,5 @@
 # Security
 
-## Dukungan
-Chat me email: [TarnaWijaya Chat Email](mailto://tarnaindramayuu@gmail.com)
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
