@@ -87,7 +87,7 @@ class BlackBox {
     this.setupCommands();
     this.sideButton = SideButton({
       text: "BlackBox AI",
-      icon: "blackbox-code-icon",
+      icon: "blackbox-icon",
       onclick: () => this.run(),
       backgroundColor: "#8400ff",
       textColor: "#000",
@@ -153,7 +153,7 @@ class BlackBox {
       const result = (await response).choices[0].message.content;
       this.mdIt.render(result);
     } catch (error) {
-      this.handleError(error, "BlackBox AI Errorr");
+      this.handleError(error, "BlackBox AI Error");
     }
   }
   async getApiKey() {
