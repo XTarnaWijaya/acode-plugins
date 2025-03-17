@@ -8,7 +8,7 @@
   <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/>
 
  <i>Acode Editor</i> - Collection of some open source plugins used in the main
- [Play Store](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+ [Play Store](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) | [F-Droid](https://f-droid.org/packages/com.foxdebug.acodehttps://f-droid.org/packages/com.foxdebug.acode)
  code editing application
 
  • Documentation: [https://acode.app/](https://acode.app/plugin-docs)
