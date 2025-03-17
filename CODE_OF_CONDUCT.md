@@ -18,11 +18,7 @@
 
 ## [ Info ]
 
-> Tidak ada yang setia kecuali Allah.  
-> Mengapa Allah? Karena Allah menjagamu sampai tua nanti.  
-> Walaupun kamu banyak berbuat dosa, Allah tetap menyayangimu.  
-> Ayolah kawan, tobatlah.  
-> Sebentar lagi mau puasa dan tetap jaga sholat serta zikhirmu, kawan.
+> Tidak ada yang setia kecuali allah😇🙏
 
 ---
 <div style="text-align: center;">©2025</div>
