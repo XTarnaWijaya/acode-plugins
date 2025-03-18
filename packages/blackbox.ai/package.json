@@ -5,7 +5,7 @@
   "main": "dist/main.js",
   "type": "module",
   "repository": "https://github.com/XTarnaWijaya/acode-plugins/tree/main/packages/blackbox.ai",
-  "author": "TarnaWijaya <tarnaindramayuu@gmail.com",
+  "author": "TarnaWijaya <tarnaindramayuu@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.23.0",
