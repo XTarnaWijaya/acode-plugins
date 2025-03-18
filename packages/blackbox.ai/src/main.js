@@ -205,7 +205,7 @@ class BlackBox {
           ["openai", "Openai"],
           ["gemini", "Gemini"],
         ];
-        const selectedProvider = await Select("Select Provider", options, {
+        const selectedProvider = await Select("Pilih Provider", options, {
           onCancel: () => {},
           hideOnSelect: true,
         });
@@ -237,7 +237,7 @@ class BlackBox {
       } else if (provider == Providers.GEMINI) {
         this.BlackBoxGemini(apikey, message);
       } else {
-        throw new TypeError("Provider not supported");
+        throw new TypeError("Provider Tidak support");
       }
     } catch (error) {
       this.handleError(error);
@@ -252,7 +252,7 @@ class BlackBox {
         ["openai", "Openai", "", true],
         ["gemini", "Gemini", "", true],
       ];
-      const selectedProvider = await Select("Select Provider", options, {
+      const selectedProvider = await Select("Pilih Provider", options, {
         onCancel: () => {},
         hideOnSelect: true,
       });
