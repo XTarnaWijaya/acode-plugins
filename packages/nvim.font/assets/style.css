@@ -1,0 +1,7 @@
+@font-face {
+  font-family: FONT-FAMILY;
+  src: url("/@plugin-base-url/font/Neovim.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  size-adjust: 100%;
+}
