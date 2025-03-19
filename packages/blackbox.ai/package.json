@@ -1,6 +1,6 @@
 {
   "name": "blackbox.ai",
-  "version": "3.2.0",
+  "version": "3.1.2",
   "description": "Blackbox.ai adalah alat berbasis kecerdasan buatan yang dirancang untuk membantu programmer dengan fitur seperti penyelesaian kode otomatis, pencarian kode dari berbagai bahasa pemrograman, serta ekstraksi kode.",
   "main": "dist/main.js",
   "type": "module",
