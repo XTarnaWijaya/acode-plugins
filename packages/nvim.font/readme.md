@@ -2,6 +2,10 @@
 
 Plugin Acode yang menambahkan font Neovim Font🌍
 
+## Foto📸
+
+<a href="https://ibb.co.com/xSdZsYdm"><img src="https://i.ibb.co.com/svz7PCz5/IMG-20250320-WA0004.jpg" alt="IMG-20250320-WA0004" border="0"></a>
+
 ## Cara pasang!!
 
 - `Buka Pengaturan` --> `Pengaturan Editor` --> `Font Editor`
