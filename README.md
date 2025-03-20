@@ -14,3 +14,5 @@
  • Documentation: [https://acode.app/](https://acode.app/plugin-docs)
 
 </div>
+
+[Rilise](https://github.com/XTarnaWijaya/acode-plugins/releases) | [Grups WhatsApp](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n) | [Grups Telegram](https://t.me/TarnaWijaya_grup)
