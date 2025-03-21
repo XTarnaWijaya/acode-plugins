@@ -1,0 +1,24 @@
+{
+  "id": "mt.theme",
+  "name": "MT Manager Theme",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["theme", "MT Manager"],
+  "contributors": [
+    {
+      "name": "Reynadi"
+    }
+    ],
+  "author": {
+    "name": "TarnaWijaya",
+    "email": "tarnaindramayuu@gmail.com",
+    "github": "XTarnaWijaya",
+    "url": "https://github.com/XTarnaWijaya/acode-plugins/tree/main/packages/nvim.theme"
+  }
+}
