@@ -279,7 +279,7 @@ class BlackBox {
       } else if (provider == Providers.GEMINI) {
         this.BlackBoxGemini(apikey, message);
       } else {
-        throw new TypeError("Provider not supported");
+        throw new TypeError("Provider tidak didukung");
       }
     } catch (error) {
       this.handleError(error);
